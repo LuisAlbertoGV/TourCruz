@@ -13,9 +13,6 @@ El presente Proyecto se presenta como una Guia para uso Estudiantil, Donde se To
 *Patron de Diseño Singleton
 *etc.
 
-
-![Img1](http://appbank.hol.es/1.png)
-![Img1](http://appbank.hol.es/2.png)
 ![Img1](http://appbank.hol.es/3.png)
 ![Img1](http://appbank.hol.es/4.png)
 ![Img1](http://appbank.hol.es/5.png)
